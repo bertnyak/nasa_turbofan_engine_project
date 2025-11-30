@@ -82,7 +82,8 @@ VotingRegressor([
     ('rf', RandomForestRegressor(max_depth=25, min_samples_split=5, n_estimators=50)),
     ('gbr', GradientBoostingRegressor(n_estimators=100))
 ])
-## 📅 Планы развития
+
+### 📅 Планы развития
 
 ### Этап 1: Базовое моделирование ✅
 - [x] **Обучение Random Forest, Gradient Boosting**
